@@ -1,0 +1,19 @@
+.mahesh{
+    background-image: url(https://cdn.pixabay.com/animation/2022/11/10/13/26/13-26-03-556_512.gif);
+    /* background-image: url(https://cdn.pixabay.com/photo/2023/05/08/15/56/pizza-7979033_1280.jpg); */
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 725px;
+    width: 100%;
+}
+.mahesh1{
+    /* background-color: beige; */
+    
+    color: rgb(224, 121, 12);
+}
+.mahesh2{
+   
+    color: rgb(221, 78, 176);
+}

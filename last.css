@@ -1,0 +1,31 @@
+.last{
+    background-image: url("https://wallpapers.com/images/featured/02x9a49rdcr5c18i.jpg");
+    height: 19cm;
+    width: 40cm;
+}
+.las{
+    margin-top: 1cm;
+    background-color:cyan;
+    color: black;
+    height: 1cm;
+    width: 5cm;
+}
+.la{
+    margin-left: 2cm;
+    background-color:cyan;
+    color: black;
+    height: 1cm;
+    width: 5cm;
+}
+.lh{
+margin-top: 1cm;
+    background-color: cyan;
+    color: black;
+    height: .5cm;
+    width:4cm;
+    margin-left: 2cm;
+}
+.para{
+    margin-top: 6cm;
+    color:white;
+}

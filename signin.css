@@ -1,0 +1,55 @@
+.Pup{
+    display: flex;
+    justify-content: center;
+    align-items: bottom;
+    margin-right: 1cm;
+    width: 41cm;
+    height: 16cm;
+    background-image: url("C:\Users\ravid\Downloads\tea-desktop.png");                        /* //for background image/ */
+    background-size: cover;
+    color: white;
+    font-style: italic;
+
+  }
+  
+  .login-for{
+    display: flex;
+    margin-left: -28cm;
+    /*margin-right: -32cm;*/
+    margin-top: 1cm;
+    flex-direction: column;
+    height: 35vh;
+    width: 300px;
+    padding: 20px;
+    border-radius: 50px;
+   backdrop-filter: blur(1px);
+    box-shadow:5px 5px 5px -2.5px rgba(6, 215, 9, 0.4),10px 10px 10px -1px rgba(6, 81, 232, 0.6)
+          
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid #9f2a2a;
+    border-radius: 1cm;
+  }
+  
+  button6 {
+    padding: 10px;
+    background-color: #f406d1a9;
+    color: #fff;
+    border: #fff;
+    border-radius: 10cm;
+    cursor: pointer;
+  }
+  .avv{
+    margin-top: 600%;
+    margin-left: -600%;
+    color: rgb(224, 187, 179);
+    background-color: rgb(12, 67, 177);
+    
+  }
